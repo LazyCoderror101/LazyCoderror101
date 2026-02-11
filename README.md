@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="250" src="https://cdn.jumpshare.com/preview/bM4s062u6aaOtQtzRU6yBFNlsslXDcrDM2xzuXcfTrHlm9kIXV-aasycj1HQnm0zmyJkZcHFBib3ove05HpsHBOSDGBh3uxUzh_6AF_MMKs"  />
+<img align="right" height="230" src="https://cdn.jumpshare.com/preview/bM4s062u6aaOtQtzRU6yBFNlsslXDcrDM2xzuXcfTrHlm9kIXV-aasycj1HQnm0zmyJkZcHFBib3ove05HpsHBOSDGBh3uxUzh_6AF_MMKs"  />
 
 ###
 
