@@ -1,10 +1,14 @@
 <div align="center">
-  <img height="450" src="https://cdn.jumpshare.com/preview/C-HvK3l8TpvKdMq8XptlMHyemOulaHiXIaQEdL0G844HN5NV-w1UEHKUkyINiovI172nLgUlBJH6qwL4J3aeqYzbdS7Qe9yG89StNS1EdHY"  />
+  <img height="450" src="https://cdn.jumpshare.com/preview/C-HvK3l8TpvKdMq8XptlMHyemOulaHiXIaQEdL0G844HN5NV-w1UEHKUkyINiovI5S7tvsvsLEeLPunnYWnGhSpDS7JPz6kUpgZobr-eA90"  />
 </div>
 
 ###
 
-<h4 align="left">About ME :<br><br>•	👨‍💻 Shaheer (@lazycoderror)<br>•	CS Student<br>	•	🚀 Building projects, one step at a time.<br>•	💻 Code → Bug → Fix → Repeat<br><br> I don’t fear bugs, I collect them</h4>
+<img align="right" height="250" src="https://cdn.jumpshare.com/preview/bM4s062u6aaOtQtzRU6yBFNlsslXDcrDM2xzuXcfTrHlm9kIXV-aasycj1HQnm0zmyJkZcHFBib3ove05HpsHBOSDGBh3uxUzh_6AF_MMKs"  />
+
+###
+
+<h3 align="left">About ME :<br><br>•	👨‍💻 Shaheer Khan (@lazycoderror)<br>•	 CS Student and Aspiring AI Learner.<br>	•	🚀 Building projects, one step at a time.<br>•	💻 Code → Bug → Fix → Repeat<br><br> I don’t fear bugs, I collect them</h3>
 
 ###
 
@@ -58,6 +62,12 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
 </div>
 
 ###
@@ -66,35 +76,9 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LazyCoderror101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LazyCoderror101&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="center">Connect With ME</h2>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/shaheerkhan10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="warl0rd._" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="shaheerkhan2604@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=LazyCoderror101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LazyCoderror101&radius=5&theme=chartreuse-dark&area=true&order=5&custom_title=Contribution%20Graph&line=08FF00&point=8A8181&color=FFFFFF&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -107,10 +91,38 @@
 
 ###
 
-<br clear="both">
+<h3 align="center">// Connect  with Me \\</h3>
+
+###
+
+<img align="left" height="200" src="https://cdn.jumpshare.com/preview/HJp9yr1H06g6kIWpdn2ZtHp0VaAOJhltJ8MniiSWUhPq6Imp9mv160uWYjGU4BdIPjFrm6GQ-JXy8KTJl6zlspvIGvHdW7sr9qOHW7k6O5s"  />
+
+###
+
+<img align="right" height="200" src="https://cdn.jumpshare.com/preview/6cLnquTFxXkzHKc6eF-4eYL9nMYhpSquGl2YiUhRqsIiocRanVl3zHwM8OalJOXNa_mHmMRwcVpiH1befn2Vd6OBTexuozV5fFUzVPV9e9c"  />
+
+###
 
 <div align="center">
-  <img height="400" src="https://private-user-images.githubusercontent.com/22963968/335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA3MzM3MzUsIm5iZiI6MTc3MDczMzQzNSwicGF0aCI6Ii8yMjk2Mzk2OC8zMzU4NDk1NTItZjAzYTY1MzktNWY1ZS00ZTI5LThjYzUtOGYyMTM4NjYwNDQwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjEwVDE0MjM1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1YzlkNDIyOGM1YWQ3NTU1OWM2N2RkYmE1NDQxY2M1YTE0OWQ5YjZmNjEyY2NlODMyOGIzZjNlMmJiOWViZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zQABZA2hfiF56ZtlIaSaPoE-i4d7azMTuDpcog8jg-E"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LazyCoderror101.LazyCoderror101&"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=THANK%20YOU%20FOR%20VISITING&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=10&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
