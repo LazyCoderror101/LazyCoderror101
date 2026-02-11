@@ -4,11 +4,11 @@
 
 ###
 
-<img align="right" height="200" src="https://cdn.jumpshare.com/preview/bM4s062u6aaOtQtzRU6yBFNlsslXDcrDM2xzuXcfTrHlm9kIXV-aasycj1HQnm0zmyJkZcHFBib3ove05HpsHBOSDGBh3uxUzh_6AF_MMKs"  />
+<img align="right" height="250" src="https://cdn.jumpshare.com/preview/bM4s062u6aaOtQtzRU6yBFNlsslXDcrDM2xzuXcfTrHlm9kIXV-aasycj1HQnm0zmyJkZcHFBib3ove05HpsHBOSDGBh3uxUzh_6AF_MMKs"  />
 
 ###
 
-<h5 align="left">About ME :<br><br>•	👨‍💻 Shaheer Khan (@lazycoderror)<br>•	 CS Student and Aspiring AI Learner.<br>	•	🚀 Building projects, one step at a time.<br>•	💻 Code → Bug → Fix → Repeat<br><br> I don’t fear bugs, I collect them</h5>
+<h4 align="left">About ME :<br><br>•	👨‍💻 Shaheer Khan (@lazycoderror)<br>•	 CS Student and Aspiring AI Learner.<br>	•	🚀 Building projects, one step at a time.<br>•	💻 Code → Bug → Fix → Repeat<br><br> I don’t fear bugs, I collect them</h4>
 
 ###
 
