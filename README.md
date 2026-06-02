@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="220" src="https://jumpshare.com/share/2FB6zGWwOjnr0W4d5yf5"  />
+<img align="right" height="220" src="CompMan.gif"  />
 
 ###
 
