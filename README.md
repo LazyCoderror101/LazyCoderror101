@@ -99,7 +99,7 @@
 
 ###
 
-<img align="right" height="200" src="https://cdn.jumpshare.com/preview/6cLnquTFxXkzHKc6eF-4eYL9nMYhpSquGl2YiUhRqsIiocRanVl3zHwM8OalJOXNa_mHmMRwcVpiH1befn2Vd6OBTexuozV5fFUzVPV9e9c"  />
+<img align="right" height="200" src="BaseManga.png"  />
 
 ###
 
