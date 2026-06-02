@@ -95,11 +95,11 @@
 
 ###
 
-<img align="left" height="200" src="Rest.gif"  />
+<img align="left" height="210" src="Rest.gif"  />
 
 ###
 
-<img align="right" height="200" src="BaseManga.png"  />
+<img align="right" height="210" src="BaseManga.png"  />
 
 ###
 
