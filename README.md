@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="220" src="CompMan.gif"  />
+<img align="right" height="200" src="CompMan.gif"  />
 
 ###
 
@@ -95,11 +95,11 @@
 
 ###
 
-<img align="left" height="275" src="Rest.gif"  />
+<img align="left" height="200" src="Rest.gif"  />
 
 ###
 
-<img align="right" height="300" src="BaseManga.png"  />
+<img align="right" height="200" src="BaseManga.png"  />
 
 ###
 
