@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="450" src="[https://jumpshare.com/share/bkOINZGJuPub3jnsV4XJ](https://jumpshare.com/share/bkOINZGJuPub3jnsV4XJ)"  />
+  <img height="450" src="https://jumpshare.com/share/bkOINZGJuPub3jnsV4XJ"  />
 </div>
 
 ###
 
-<img align="right" height="220" src="https://cdn.jumpshare.com/preview/bM4s062u6aaOtQtzRU6yBFNlsslXDcrDM2xzuXcfTrHlm9kIXV-aasycj1HQnm0zmyJkZcHFBib3ove05HpsHBOSDGBh3uxUzh_6AF_MMKs"  />
+<img align="right" height="220" src="https://jumpshare.com/share/2FB6zGWwOjnr0W4d5yf5"  />
 
 ###
 
