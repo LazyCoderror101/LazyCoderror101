@@ -95,11 +95,11 @@
 
 ###
 
-<img align="left" height="200" src="https://cdn.jumpshare.com/preview/HJp9yr1H06g6kIWpdn2ZtHp0VaAOJhltJ8MniiSWUhPq6Imp9mv160uWYjGU4BdIPjFrm6GQ-JXy8KTJl6zlspvIGvHdW7sr9qOHW7k6O5s"  />
+<img align="left" height="275" src="Rest.gif"  />
 
 ###
 
-<img align="right" height="200" src="BaseManga.png"  />
+<img align="right" height="300" src="BaseManga.png"  />
 
 ###
 
